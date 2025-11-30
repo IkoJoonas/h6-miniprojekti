@@ -73,3 +73,5 @@ Idempotenssin vahvistaminen, näytti toimivan:
 Mysql yhteydellä kirjautuminen MariaDB:hen :
 
 <img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_18_02_51" src="https://github.com/user-attachments/assets/69a62d26-4ff5-4923-8c1c-fa5a76469711" />
+
+Kaikki palvelut toimivat odotetusti, LAMP-stack on onnistuneesti automatisoitu Ansiblella.
