@@ -54,11 +54,11 @@ Vielä piti luoda php kansion sisään tasks kansio ja sen sisälle myös main.y
 
 Ennenkuin suoritettiin Ansiblen playbook käytiin muokkaamassa Apachen dir.conf tiedostoa, lisäämällä index.php ennen index.html:
 
-<img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_15_09_40" src="https://github.com/user-attachments/assets/6994f715-d504-46ba-8619-7b94449d503a" />
+<img width="705" height="422" alt="Näyttökuva 2025-11-30 kello 18 14 30" src="https://github.com/user-attachments/assets/17fbf17a-70bc-4aae-8a68-32b1305ab140" />
 
 Kokeiltiin toimiiko kaikki odotetusti komennolla -> sudo ansible-playbook -i inventory site.yml
 
-<img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_14_53_09" src="https://github.com/user-attachments/assets/0966f76d-a723-4da8-a214-401bb1a57831" />
+<img width="1180" height="753" alt="Näyttökuva 2025-11-30 kello 18 13 53" src="https://github.com/user-attachments/assets/5907ffa3-ee9d-4181-92c9-e677ba6227b9" />
 
 <img width="1158" height="168" alt="Näyttökuva 2025-11-30 kello 14 54 07" src="https://github.com/user-attachments/assets/02cb9eb4-784b-450d-9de1-4db605890c67" />
 
