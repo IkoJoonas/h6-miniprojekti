@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: yes
+
+  vars:
+    db_name: testi
+    db_user: testikäyttäjä
+    db_password: testitesti
+
+  roles:
+    - apache
+    - php
+    - mariadb
