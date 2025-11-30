@@ -61,3 +61,15 @@ Kokeiltiin toimiiko kaikki odotetusti komennolla -> sudo ansible-playbook -i inv
 <img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_14_53_09" src="https://github.com/user-attachments/assets/0966f76d-a723-4da8-a214-401bb1a57831" />
 
 <img width="1158" height="168" alt="Näyttökuva 2025-11-30 kello 14 54 07" src="https://github.com/user-attachments/assets/02cb9eb4-784b-450d-9de1-4db605890c67" />
+
+Kaikki näytti toimivan, joten seuraavaksi testasimme toimiiko verkkosivu käyttäen komentoa -> curl -sS http://localhost | sed -n '1,30p'
+
+<img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_15_12_04" src="https://github.com/user-attachments/assets/79487553-aa5c-4745-9eae-14cb7251c882" />
+
+Idempotenssin vahvistaminen, näytti toimivan:
+
+<img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_18_00_06" src="https://github.com/user-attachments/assets/9446ad8d-b4c0-4306-9e6f-4f786a5ce125" />
+
+Mysql yhteydellä kirjautuminen MariaDB:hen :
+
+<img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_18_02_51" src="https://github.com/user-attachments/assets/69a62d26-4ff5-4923-8c1c-fa5a76469711" />
