@@ -64,7 +64,7 @@ Kokeiltiin toimiiko kaikki odotetusti komennolla -> sudo ansible-playbook -i inv
 
 Kaikki näytti toimivan, joten seuraavaksi testasimme toimiiko verkkosivu käyttäen komentoa -> curl -sS http://localhost | sed -n '1,30p'
 
-<img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_15_12_04" src="https://github.com/user-attachments/assets/79487553-aa5c-4745-9eae-14cb7251c882" />
+<img width="973" height="535" alt="Näyttökuva 2025-11-30 kello 18 16 34" src="https://github.com/user-attachments/assets/8115b88f-b3ce-49cb-9f00-31aba1dbcf55" />
 
 Idempotenssin vahvistaminen, näytti toimivan:
 
