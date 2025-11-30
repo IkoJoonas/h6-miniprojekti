@@ -52,7 +52,7 @@ Vielä piti luoda php kansion sisään tasks kansio ja sen sisälle myös main.y
 
 <img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_17_47_17" src="https://github.com/user-attachments/assets/907ae956-cf68-4518-896b-304ca2721d1c" />
 
-Ennenkuin suoritettiin Ansiblen playbook käyttiin muokkaamassa Apachen dir.conf tiedostoa, lisäämällä index.php ennen index.html:
+Ennenkuin suoritettiin Ansiblen playbook käytiin muokkaamassa Apachen dir.conf tiedostoa, lisäämällä index.php ennen index.html:
 
 <img width="1280" height="800" alt="VirtualBox_DebianJoonasI_30_11_2025_15_09_40" src="https://github.com/user-attachments/assets/6994f715-d504-46ba-8619-7b94449d503a" />
 
