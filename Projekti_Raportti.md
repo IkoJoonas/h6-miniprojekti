@@ -1,6 +1,6 @@
 ## Laitteisto
 
-Host: MacBook Air M2 2022 16Gt / 
+Host: MacBook Air M2 2022 16Gt / Lenovo Ideapad i5-8250U CPU
 
 Guest: Oracle VM VirtualBox 7.2.0
 
