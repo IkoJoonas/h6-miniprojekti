@@ -1,1 +1,13 @@
+## Laitteisto
 
+Host: MacBook Air M2 2022 16Gt
+
+Guest: Oracle VM VirtualBox 7.2.0
+
+Virtuaalikone: Debian GNU/Linux 13.1.0 ”Trixie”
+
+Ram: 4GB
+
+Levytila: 60GB
+
+CPU: 1 
