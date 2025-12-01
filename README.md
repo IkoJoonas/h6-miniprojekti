@@ -4,10 +4,11 @@
 
 ## Projektin tarkoitus
 
-Automaattinen LAMP-palvelin Ansiblella. Voidaan ottaa käyttöön yhdellä komennolla sekä ajaa useita kertoja. Tuloksena nopea ja virheettömästi toistettava web-palvelinympäristö.
+#### Automaattinen LAMP-palvelin Ansiblella. Voidaan ottaa käyttöön yhdellä komennolla sekä ajaa useita kertoja ilman turhia muutoksia. Tuloksena nopea ja virheettömästi toistettava web-palvelinympäristö, jossa voit julkaista omia verkkosivuja tai web-sovelluksia. (Linux, Apache2, MariaDB & PHP)
 
 
-## Onnistunut lopputulos
+
+## Onnistunut lopputulos (esimerkkisivu)
 
 <img width="357" height="157" alt="image" src="https://github.com/user-attachments/assets/61abd6b5-bceb-4119-aabd-4692a370fad3" />
 
