@@ -22,7 +22,14 @@ https://github.com/IkoJoonas/h6-miniprojekti.git
 
 ```git clone https://github.com/IkoJoonas/h6-miniprojekti.git```
 
-2.) Testaa Ansible ja inventaario:
+2.) Asennetaan tarvittavat paketit ja testataan Ansible ja inventaario
+
+
+```sudo apt update```
+
+```sudo apt upgrade```
+
+```sudo apt install git ansible python3-mysqldb```
 
 ```ansible -i inventory/hosts all -m ping --ask-become-pass```
 
