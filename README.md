@@ -4,8 +4,12 @@
 
 ## Projektin tarkoitus
 
-#### Automaattinen LAMP-palvelin Ansiblella. Voidaan ottaa käyttöön yhdellä komennolla sekä ajaa useita kertoja ilman turhia muutoksia. Tuloksena nopea ja virheettömästi toistettava web-palvelinympäristö, jossa voit julkaista omia verkkosivuja tai web-sovelluksia. (Linux, Apache2, MariaDB & PHP)
+Automaattinen LAMP-palvelin Ansiblella. Voidaan ottaa käyttöön yhdellä komennolla sekä ajaa useita kertoja ilman turhia muutoksia. Tuloksena nopea ja virheettömästi toistettava web-palvelinympäristö, jossa voit julkaista omia verkkosivuja tai web-sovelluksia. (Linux, Apache2, MariaDB & PHP)
 
+#### - Nopea käyttöönotto
+#### - Helposti toistettavissa
+#### - Versionhallinta ja dokumentointi
+#### - Skaalautuvuus
 
 
 ## Onnistunut lopputulos (esimerkkisivu)
@@ -24,7 +28,6 @@ https://github.com/IkoJoonas/h6-miniprojekti.git
 ```git clone https://github.com/IkoJoonas/h6-miniprojekti.git```
 
 2.) Asennetaan tarvittavat paketit ja testataan Ansible ja inventaario
-
 
 ```sudo apt update```
 
